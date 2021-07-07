@@ -6,12 +6,16 @@
 
 
 ## Describtion
-The first motor can work at any time. The second motor does not work except in the case of stopping the first motor.
+The first motor can work at any time.
+
+The second motor does not work except in the case of stopping the first motor.
+
+The third motor does not work except in the case of stopping the second motor. 
 
 ## Components used
-- 2 contactor
+- 3 contactor
 
-- 2 lamp
+- 3 lamp
 
 ![clasic2](https://user-images.githubusercontent.com/80456446/124122383-501ce880-da76-11eb-9a7b-85c1a82007b6.png)
 
